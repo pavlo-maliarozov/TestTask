@@ -1,10 +1,13 @@
 /target/
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/*
+mvnnw
+*.cmd
 
 *.class
 *.war
 *.jar
 *.ear
+
 
 ### STS ###
 .apt_generated
